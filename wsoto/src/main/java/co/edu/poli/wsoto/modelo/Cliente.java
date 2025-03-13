@@ -5,9 +5,6 @@ package co.edu.poli.wsoto.modelo;
  */
 public class Cliente {
 
-	/**
-	 * 
-	 */
 	private String id;
 	private String nombres;
 	
